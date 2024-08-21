@@ -2,7 +2,8 @@
 ICM: Industrial Copper Modeling 
 
 # Industrial Copper Modeling
-Problem Statement The copper industry deals with less complex data related to sales and pricing. However, this data may suffer from issues such as skewness and noisy data, which can affect the accuracy of manual predictions. Dealing with these challenges manually can be time-consuming and may not result in optimal pricing decisions.
+#### Problem Statement 
+The copper industry deals with less complex data related to sales and pricing. However, this data may suffer from issues such as skewness and noisy data, which can affect the accuracy of manual predictions. Dealing with these challenges manually can be time-consuming and may not result in optimal pricing decisions.
 
 # Overview
 This project aims to analyze the noisy data using machine learning regression model can address these issues by utilizing advanced techniques and a lead classification model is a system for evaluating and classifying leads based on how likely they are to become a customer.
